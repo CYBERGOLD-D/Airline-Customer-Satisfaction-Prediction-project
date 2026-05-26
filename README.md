@@ -25,15 +25,15 @@ We preprocess categorical and numerical features, train/test split the data, fit
 5. Coefficient interpretation for feature importance.
 
 ### Results
-- **Confusion Matrix**: 
+- **Confusion Matrix**: <br>
 | **Actual / Predicted**   | **Unsatisfied**          | **Satisfied** |<br>
 | **Unsatisfied**          | 47 (True Negatives)      | 52 (False Positives) |<br>
 | **Satisfied**            | 48 (False Negatives)     | 53 (True Positives) |<br>
-
-Model Performance Metrics:<br>
-Accuracy : 0.54 <br>
-Precision: 0.588 <br>
-Recall   : 0.467 <br>
+<br>
+**Model Performance Metrics:**<br>
+**Accuracy** : 0.54 <br>
+**Precision**: 0.588 <br>
+**Recall**   : 0.467 <br>
 
 ### Key Insights
 - Positive drivers: [e.g., Seat comfort, Cleanliness, Onboard service]
