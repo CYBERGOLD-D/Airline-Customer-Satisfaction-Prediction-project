@@ -30,7 +30,10 @@ We preprocess categorical and numerical features, train/test split the data, fit
 | **Unsatisfied**          | 47 (True Negatives)      | 52 (False Positives) |<br>
 | **Satisfied**            | 48 (False Negatives)     | 53 (True Positives) |<br>
 <br>
-![Confusion Matrix](confusion_matrix.png) <br>
+
+![Confusion Matrix](images/confusion_matrix.png)
+ <br>
+
 Model Performance Metrics:<br>
 Accuracy: 0.54 <br>
 Precision: 0.588 <br>
