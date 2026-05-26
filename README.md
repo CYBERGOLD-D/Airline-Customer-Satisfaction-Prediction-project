@@ -30,6 +30,7 @@ We preprocess categorical and numerical features, train/test split the data, fit
 | **Unsatisfied**          | 47 (True Negatives)      | 52 (False Positives) |<br>
 | **Satisfied**            | 48 (False Negatives)     | 53 (True Positives) |<br>
 <br>
+![Confusion Matrix](confusion_matrix.png) <br>
 Model Performance Metrics:<br>
 Accuracy: 0.54 <br>
 Precision: 0.588 <br>
@@ -48,17 +49,6 @@ Recall: 0.467 <br>
 ### Limitations & Next Steps
 - Synthetic dataset used; real-world data may differ.
 - Future work: try other models (Random Forest, XGBoost), handle class imbalance, deploy model in production.
-
-### Results
-
-**Confusion Matrix:**
-
-![Confusion Matrix](confusion_matrix.png)
-
-**Performance Metrics:**
-- Accuracy: X.XXX
-- Precision: X.XXX
-- Recall: X.XXX
 
 ## Installation & Requirements
 - Python 3.8+
