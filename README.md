@@ -26,14 +26,14 @@ We preprocess categorical and numerical features, train/test split the data, fit
 
 ### Results
 - **Confusion Matrix**: 
-| **Actual / Predicted**   | **Unsatisfied**          | **Satisfied** |
-| **Unsatisfied**          | 47 (True Negatives)      | 52 (False Positives) |
-| **Satisfied**            | 48 (False Negatives)     | 53 (True Positives) |
+| **Actual / Predicted**   | **Unsatisfied**          | **Satisfied** |<br>
+| **Unsatisfied**          | 47 (True Negatives)      | 52 (False Positives) |<br>
+| **Satisfied**            | 48 (False Negatives)     | 53 (True Positives) |<br>
 
-Model Performance Metrics:
-Accuracy : 0.54
-Precision: 0.588
-Recall   : 0.467
+Model Performance Metrics:<br>
+Accuracy : 0.54 <br>
+Precision: 0.588 <br>
+Recall   : 0.467 <br>
 
 ### Key Insights
 - Positive drivers: [e.g., Seat comfort, Cleanliness, Onboard service]
